@@ -31,5 +31,4 @@ I am a self-taught front-end developer from Russia 🇷🇺
 - Figma, Adobe Photoshop
 - Python, FastAPI
 
-| <a href="https://github.com/weirdflexer"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weirdflexer&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/weirdflexer"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weirdflexer&layout=compact&theme=buefy&hide_border=true" /></a>
